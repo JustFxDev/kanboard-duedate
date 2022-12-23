@@ -3,7 +3,7 @@
 
 
 [![Latest release](https://img.shields.io/github/v/release/JustFxDev/kanboard-duedate)](https://github.com/JustFxDev/kanboard-duedate/releases)
-![GitHub license](https://img.shields.io/github/license/JustFxDev/kanboard-duedate)
+[![GitHub license](https://img.shields.io/github/license/JustFxDev/kanboard-duedate)](https://github.com/JustFxDev/kanboard-duedate/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JustFxDev/kanboard-duedate/graphs/contributors)
 
 **:star: If you use it, you should star it on Github!**
