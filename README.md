@@ -1,6 +1,14 @@
 23.12.2022 - THIS PLUGIN HAS BEEN TRANSFERRED FROM THE ORIGINAL REPOSITORY AND WILL BE FURTHER MAINTAINED HERE
 
 
+
+[![Latest release](https://img.shields.io/github/v/release/JustFxDev/kanboard-duedate)](https://github.com/JustFxDev/kanboard-duedate/releases)
+![GitHub license](https://img.shields.io/github/license/JustFxDev/kanboard-duedate)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JustFxDev/kanboard-duedate/graphs/contributors)
+
+**:star: If you use it, you should star it on Github!**
+*It's the least you can do for all the work put into it!*
+
 Due Date sorting for Kanboard
 =============================
 
