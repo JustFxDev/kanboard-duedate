@@ -1,4 +1,4 @@
-THIS PLUGIN HAS BEEN TRANSFERRED FROM THE ORIGINAL REPOSITORY AND WILL BE FURTHER MAINTAINED HERE
+23.12.2022 - THIS PLUGIN HAS BEEN TRANSFERRED FROM THE ORIGINAL REPOSITORY AND WILL BE FURTHER MAINTAINED HERE
 
 
 Due Date sorting for Kanboard
@@ -8,6 +8,17 @@ Enable sorting columns by due date for Kanboard.
 
 - Preferences are set via new Settings panel
 - Button appears at the top of each board to quickly toggle between "due date" and "default" sorting
+
+Advantages
+----------
+- Easy switching between
+  - Show all tasks in all columns by due date
+  - Show all tasks in all columns by last modification of a task
+  - Show all tasks in all columns in order of creation (Kanboard default view)
+- Enter date or time period (e.g. +10 days from today) to use fictitious due date, if a task has no due date set, to display these tasks accordingly
+- Optionally show a separator between overdue tasks and tasks that are not yet overdue
+- Display in the board header what kind of sorting is currently active
+- Multillanguage Support (English and German at the moment, help wanted for more translations)
 
 Screenshots
 -----------
@@ -39,6 +50,7 @@ Author
 ------
 
 - David Morlitz
+- fx (since v1.2.0)
 - License MIT
 
 Requirements
