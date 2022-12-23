@@ -33,17 +33,17 @@ class Plugin extends Base
 
     public function getPluginAuthor()
     {
-        return 'David Morlitz';
+        return 'David Morlitz, Fx';
     }
 
     public function getPluginVersion()
     {
-        return '1.1.0';
+        return '1.2.0';
     }
 
     public function getPluginHomepage()
     {
-        return 'https://github.com/dmorlitz/kanboard-duedate';
+        return 'https://github.com/JustFxDev/kanboard-duedate';
     }
 
     public function getCompatibleVersion()
