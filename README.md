@@ -58,7 +58,7 @@ Author
 ------
 
 - David Morlitz
-- fx (since v1.2.0)
+- Fx (since v1.2.0)
 - License MIT
 
 Requirements
