@@ -27,6 +27,8 @@ return [
 ' / Div. off'  =>  '',
 'Future'  =>  'Zukünftig',
 'days'  =>  'Tage',
-'day'  =>  'Tag'
+'day'  =>  'Tag',
+'Allows sorting all tasks in all columns by due date, date of last modification or how they were placed on the board. With three clicks.' => 'Ermöglicht die Sortierung aller Tasks in allen Spalten nach Fälligkeitsdatum, Datum der letzten Änderung oder wie sie auf der Tafel abgelegt wurden. Mit drei Klicks.'
+
 ];
 

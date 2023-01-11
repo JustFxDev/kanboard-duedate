@@ -28,7 +28,7 @@ class Plugin extends Base
 
     public function getPluginDescription()
     {
-        return t('Force columns to be sorted by due date');
+        return t('Allows sorting all tasks in all columns by due date, date of last modification or how they were placed on the board. With three clicks.');
     }
 
     public function getPluginAuthor()
@@ -38,7 +38,7 @@ class Plugin extends Base
 
     public function getPluginVersion()
     {
-        return '1.2.0';
+        return '1.2.1';
     }
 
     public function getPluginHomepage()

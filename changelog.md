@@ -1,30 +1,19 @@
 # Changelog
 
-## v0.8.0
+_most recent changes are listed on top_
 
-### What's Changed
+## v1.2.1
 
-_(most recent changes are listed on top):_  
-- Structure fixes, version infos updated. = @JustFxDev
-- Update README.md - @JustFxDev
-- Generic version file - @JustFxDev
-- Update translations.php - @JustFxDev
-- Update README.md - @aljawaid
-- Update Folder Structure for Previous Release - @aljawaid
-- Update File Locations - @aljawaid
-- Add changelog.md - @aljawaid
-- Update LICENSE
-- Enable and Add Translations - Useful for the description - @aljawaid
-- Update Plugin.php to PSR Standards - @aljawaid
-- Added notice regarding Customizer Plugin use - @JustFxDev
+- Shorter texts (de) for the header bar / drop down to save space
+- Jump pack to board view after save has been pressed on settings page
 
 
-## v0.7.0
+## v1.2.0
 
-### What's Changed
+- Project take over from [dmorlitz](https://github.com/dmorlitz/) / [kanboard-duedate](https://github.com/dmorlitz/kanboard-duedate)
 
-_(most recent changes are listed on top):_  
-- Initial release
+- Added language support and added language DE
 
+- Small changes to README.md
 
-Read the full [**Changelog**](../main/changelog.md "See changes") or view the [**README**](../main/README.md "View README")
+  

@@ -42,6 +42,7 @@
         <legend><?= t('Date assumed for tasks without due date') ?></legend>
         <?= $this->form->text('DueDate_Board_Default_Date', $values, $errors, array('required', 'autofocus', 'tabindex="2"')) ?>
         <br/><?= 
+            nl2br ("\n"),
             t('NOTE: Any date format by PHP\'s strtotime function is accepted here'),
             nl2br ("\n"),
             t('A value of 0 will force undated items to the top'),
