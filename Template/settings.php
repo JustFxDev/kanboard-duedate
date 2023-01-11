@@ -14,9 +14,9 @@
     <fieldset>
         <legend><?= t('Sort method') ?></legend>
         <?= $this->form->radios('DueDate_Board_Sort_Method', array(
-                'duedate_due' => t('Show tasks in due date order'),
-                'duedate_modified' => t('Show tasks in modification order - unmodified longest at the top'),
-                'duedate_board' => t('Show tasks in board order'),
+                'duedate_due' => t('Show tasks in due date order (Due)'),
+                'duedate_modified' => t('Show tasks in modification order - unmodified longest at the top (Mod)'),
+                'duedate_board' => t('Show tasks in board order (Def)'),
             ),
             $values
         ) ?>

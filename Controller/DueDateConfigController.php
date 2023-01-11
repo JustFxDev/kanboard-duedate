@@ -51,6 +51,7 @@ class DueDateConfigController extends BaseController
         $this->projectMetadataModel->save($project['id'], array('DueDate_Board_Distant_Future' => $values["DueDate_Board_Distant_Future"]));
 
 //        $this->response->redirect($this->helper->url->to('BoardViewController', 'save', array('project_id' => $project['id'])), true);
-        return $this->show($values, $errors);
+//        return $this->show($values, $errors);
+        return $this->response->redirect($this->helper->url->to('BoardViewController','show', array('project_id' => $project['id'])), true);
     }
 }

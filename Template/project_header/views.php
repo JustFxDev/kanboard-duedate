@@ -13,18 +13,18 @@
       }
 
       switch ($sort) {
-          case "duedate_due": $sorttext = t("due date"); break;
-          case "duedate_modified": $sorttext = t("modification date"); break;
-          default: $sorttext = t("board order");
+         case "duedate_due": $sorttext = t("Due"); break;
+         case "duedate_modified": $sorttext = t("Mod"); break;
+         default: $sorttext = t("Def");
       }
 
       if ( $dividers == "duedate_board_dividers_on") {
-         $dividertext = t(" / Dividers on");
+         $dividertext = t(" / Div. on");
       } else {
-         $dividertext = t(" / Dividers off");
+         $dividertext = t(" / Div. off");
       }
 
 ?>
 <li <?= $this->app->checkMenuSelection('DueDateConfigController', 'show', 'DueDate') ?>>
-    <?= $this->url->icon('sort', t('Sorted by ') . $sorttext . $dividertext, 'DueDateConfigController', 'show', array('plugin' => 'DueDate','project_id' => $project['id'])) ?></li>
+      <?= $this->url->icon('sort', t('Sorted by ') . $sorttext . $dividertext, 'DueDateConfigController', 'show', array('plugin' => 'DueDate','project_id' => $project['id'])) ?></li>
 </li>
