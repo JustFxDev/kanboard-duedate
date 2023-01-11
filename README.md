@@ -1,8 +1,9 @@
 ![north_west](./assets/images/north_west.svg) Use the table of contents
 
-[![version](./Assets/images/version.svg)](https://github.com/JustFxDev/ThemeMaestro/releases) [![license](./Assets/images/license.svg)](https://github.com/JustFxDev/ThemeMaestro/blob/main/LICENSE) [![maintainedyes](./Assets/images/maintained.svg)](https://github.com/JustFxDev/ThemeMaestro/graphs/contributors)
+[![version](./assets/images/version.svg)](https://github.com/JustFxDev/ThemeMaestro/releases) [![license](./assets/images/license.svg)](https://github.com/JustFxDev/ThemeMaestro/blob/main/LICENSE) [![maintainedyes](./assets/images/maintained.svg)](https://github.com/JustFxDev/ThemeMaestro/graphs/contributors)
 
 **:star: If you use it, you should star it on GitHub!** *It's the least you can do for all the work put into it!*
+
 Due Date sorting for Kanboard
 =============================
 
