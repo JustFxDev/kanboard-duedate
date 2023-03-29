@@ -1,16 +1,15 @@
-![north_west](./assets/images/north_west.svg) Use the table of contents
+![north_west](./Assets/images/north_west.svg) Use the table of contents
 
-[![version](./assets/images/version.svg)](https://github.com/JustFxDev/ThemeMaestro/releases) [![license](./assets/images/license.svg)](https://github.com/JustFxDev/ThemeMaestro/blob/main/LICENSE) [![maintainedyes](./assets/images/maintained.svg)](https://github.com/JustFxDev/ThemeMaestro/graphs/contributors)
+[![version](./Assets/images/version.svg)](https://github.com/JustFxDev/ThemeMaestro/releases) [![license](./Assets/images/license.svg)](https://github.com/JustFxDev/ThemeMaestro/blob/main/LICENSE) [![maintainedyes](./Assets/images/maintained.svg)](https://github.com/JustFxDev/ThemeMaestro/graphs/contributors)
 
 **:star: If you use it, you should star it on GitHub!** *It's the least you can do for all the work put into it!*
 
-Due Date sorting for Kanboard
-=============================
+# Due Date sorting for Kanboard
+
 
 Allows to display all columns of a board by due dates, last modification date or as they were filed on the board. With three clicks.
 
-Advantages
-----------
+## Advantages
 - Easy switching between
   - Show all tasks in all columns by due date
   - Show all tasks in all columns by last modification of a task
@@ -20,8 +19,7 @@ Advantages
 - Display in the board header what kind of sorting is currently active
 - Multilanguage Support (English and German at the moment, help wanted for more translations)
 
-Screenshots
------------
+## Screenshots
 
 ### New button at the top of the page
 
@@ -29,29 +27,24 @@ This plugin adds a new button to the top of each page in the toolbar.  The butto
 
 **NOTE:**  This setting affects every board of the current user and is stored in your user preferences.
 
-![image-20230111142015007](./assets/images/image-20230111142015007.png)
+![image-20230111142015007](./Assets/images/image-20230111142015007.png)
 
 ### Settings panel
 
 The settings panel will allow you to change the sorting order.  The current sorting method will be initially selected by default.  
 
-![image-20230111143041431](./assets/images/image-20230111143041431.png)
+![image-20230111143041431](./Assets/images/image-20230111143041431.png)
 
-Author
-------
+## Author
 
-- David Morlitz
-- Fx (since v1.2.0)
+- JustFxDev (since v1.2.0)
+- David Morlitz (until v1.2.0)
 - License MIT
 
-Requirements
-------------
-
+## Requirements
 - Kanboard >= 1.0.40
 
-Installation
-------------
-
+## Installation
 You have the choice between 3 methods:
 
 1. Install the plugin from the Kanboard plugin manager in one click

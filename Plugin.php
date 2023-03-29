@@ -33,7 +33,7 @@ class Plugin extends Base
 
     public function getPluginAuthor()
     {
-        return 'David Morlitz, Fx';
+        return 'JustFxDev (Fx), David Morlitz';
     }
 
     public function getPluginVersion()
