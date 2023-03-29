@@ -38,7 +38,7 @@ The settings panel will allow you to change the sorting order.  The current sort
 ## Author
 
 - JustFxDev (since v1.2.0)
-- David Morlitz (until v1.2.0)
+- David Morlitz (until v1.1.0)
 - License MIT
 
 ## Requirements
